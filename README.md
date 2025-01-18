@@ -32,7 +32,7 @@ The IPL Data Visualizations project aims to provide cricket enthusiasts and anal
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/yourusername/ipl-data-visualizations.git
+   git clone https://github.com/Poojaschavan97/IPL-Project-OG.git
    ```
 
 2. **Navigate to the project directory**:
