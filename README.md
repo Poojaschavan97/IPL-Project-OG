@@ -62,7 +62,7 @@ The **IPL Data Visualizations** project aims to offer cricket enthusiasts and an
 
 ## Data Sources
 
-The data used in this project is sourced from [Kaggle's IPL Dataset](https://www.kaggle.com/datasets/ramjidoolla/ipl-data-set). Ensure you have the appropriate permissions to use this data.
+The data used in this project is sourced from [Kaggle's IPL Dataset](https://www.kaggle.com/datasets/patrickb1912/ipl-complete-dataset-20082020). Ensure you have the appropriate permissions to use this data.
 
 ## Contributing
 
